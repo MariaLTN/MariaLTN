@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Posicionamentos</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<body>
+		<div class="container">
+
+			<H4>Dica sobre Margin:</H4>
+			<p>No uso do "margin: 10px 80px;", temos como resultado o distanciamento de 10px no top e bottom, e 80px nas laterais. Mas o container não é centralizado. Para resolver isso deixamos isso como <strong>automático</strong>, com o uso do "auto". Ficando "margin: 10px auto;"</p>
+
+			<h3>STATIC - Estático</h3>
+
+			<p>É o padrão.</p>
+
+			<h3>RELATIVE - Relativo</h3>
+
+			<p>Precisamos usar propriedade de deslocamentos para movimentar o bloco. Ele possui 4 valores: <strong>TOP, RIGHT, BOTTOM, LEFT</strong>.</p>
+
+			<p class="relative"><strong>Aleatório: Relativo</strong> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s;</p>
+
+			<h3>ABSOLUTE - Absoluto</h3>
+
+			<p class="absoluto"><strong>Aleatório: Absoluto</strong>when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+
+			<p>A posição absoluta, o elemento sai do fluxo normal do documento e não afeta a posição dos outros na página. Seria como se não existisse (o elemento com absoluto). Também existe a possibilidade de movimentá-lo com: 4 valores: <strong>TOP, RIGHT, BOTTOM, LEFT</strong>. A diferença entre esses atributos e os atributos do Relativo. É que aqui é calculada em relação ao container que está o elemento, o que é diferente de estática(padrão). Mas <strong>NÃO</strong> é recomendado usá-lo para posições em relação a responsividade da tela.</p>
+
+			<p>Para fazer o "absoluto" ficar alinahdo com o container e não no body do documento é necessário que o container tenha: /*position: relative;*/. Caso contrário ele responde ao alinhamento do corpo do documento.</p>	
+
+			<p><strong>Ambos acompanham a rolagem da página.</strong></p>
+
+			<h3>FIXED - Fixo</h3>
+
+			<p>No <strong>fixo</strong> usa também os 4 atributos: <strong>TOP, RIGHT, BOTTOM, LEFT</strong>. E outra caracteristica importante é que a <strong>rolagem</strong> é fixa. Fica no lugar dela o tempo todo. Muitas utilizações do FIXO pode ser vista em: <strong>CHAT e MENUS</strong>.</p>	
+
+			<p class="fixo"><strong>Aleatório - Fixo: </strong>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>	
+
+			<h4>Um breve resumo:</h4>
+
+			<p><strong>Absoluto: </strong> Permite definir uma caixa que é removida do fluxo e alinhá-lo baseado no seu container que tenha uma posição;<br><strong>Relativo: </strong> Tem o alinhamento baseado na posição inicial  do elemento;<br><strong>Fixo: Alinhado baseado na tela, na janela do navegador.<br></strong></p>
+		</div>
+	</body>
+</html>

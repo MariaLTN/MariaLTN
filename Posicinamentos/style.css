@@ -1,0 +1,40 @@
+body{
+	background: #007FC7;
+}
+
+h3{
+	position: static;
+}
+
+p{
+	width: 350px;
+}
+
+.fixo{
+	border: 1px solid #FFFF00;
+	position: fixed;
+	top: 0px;
+	right: 0px;
+}
+.container{
+	background: #FFF;
+	width: 800px;
+	margin: 10px auto;
+	padding: 10px;
+	position: relative; /*FATO IMPORTANTE*/
+}
+
+.relative{
+	border: 1px solid red;
+	position: relative;
+	/*4 valores*/
+	bottom: 15px;
+	left: 15px;
+}
+
+.absoluto{
+	position: absolute;
+	border: 1px solid blue;
+	top: 80px;
+	right: 20px;
+}
