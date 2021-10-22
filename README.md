@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria
 - 👀 I’m interested in Front-End Dev
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript 
 
 <!---
 MariaLTN/MariaLTN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
