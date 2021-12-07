@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maria Teixeira
 - 👀 I’m interested in Front-End Dev 
 - 🌱 I’m currently learning JavaScript  
-- @Mariatxrn on Instagram
+- 📷 @Mariatxrn on Instagram
 - 
 <!---
 MariaLTN/MariaLTN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
