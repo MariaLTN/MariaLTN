@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Teixeira
 - 👀 I’m interested in Front-End Dev 
-- 🌱 I’m currently learning JavaScript  
+- 🌱 I’m currently learning JavaScript
 - 📷 @Mariatxrn on Instagram
 
 <!---
