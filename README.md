@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria   
-- 👀 I’m interested in Front-End Dev   
+- 👀 I’m interested in Front-End Dev     
 - 🌱 I’m currently learning JavaScript
 - 📷 @Mariatxrn on Instagram 
 
