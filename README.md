@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maria Teixeira
+- 👋 Hi, I’m Maria Teixeira  
 - 👀 I’m interested in Front-End Dev     
 - 🌱 I’m currently learning Java and Angular
 - 📷 @Mariatxrn on Instagram 
