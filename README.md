@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Teixeira Faustt      
 - 👀 I’m interested in Front-End Dev       
-- 🌱 I’m currently learning Java and Angular
+- 🌱 I’m currently learning Angular
 - 📷 @MariaFaustt on Instagram          
    
 <!---
