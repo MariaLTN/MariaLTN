@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Teixeira Faustt      
 - 👀 I’m interested in Front-End Dev  
-- 🌱 I’m currently learning UX Design   
+- 🌱 I’m currently learning UX Design     
 - 📷 @MariaFaustt on Instagram 
 
 <!---
