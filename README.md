@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maria Teixeira Faustt      
 - 👀 I’m interested in Front-End Dev     
 - 🌱 I’m currently learning UX Design on Google Coursera
-- 📷 @MariaFaustt on Instagram 
+- 📷 @MariaFaustt on Instagram    
   
 <!---
 MariaLTN/MariaLTN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
