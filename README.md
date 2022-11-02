@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Teixeira Faustt      
 - 👀 I’m interested in Front-End Dev  
-- 🌱 I’m currently learning UX Design on Google Coursera 
+- 🌱 I’m currently learning UX Design on Google Coursera    
 - 📷 @MariaFaustt on Instagram  
        
 <!---    
