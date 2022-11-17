@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maria Teixeira Faustt        
+- 👋 Hi, I’m Maria Teixeira Faustt          
 - 👀 I’m interested in UX Design  
 - 🌱 I’m currently learning UX Design on Google Coursera      
 - 📷 @MariaFaustt on Instagram    
