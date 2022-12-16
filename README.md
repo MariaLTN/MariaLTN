@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maria Teixeira Faustt                       
 - 👀 I’m interested in UX Design
 - 🌱 I’m currently a UX Designer
-- 📷 @MariaFaustt on Instagram      
+- 📷 @MariaFaustt on Instagram        
       
 <!---    
 MariaLTN/MariaLTN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
