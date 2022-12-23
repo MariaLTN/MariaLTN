@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria Teixeira Faustt                            
-- 👀 I’m interested in UX Design    
+- 👀 I’m interested in UX Design      
 - 🌱 I’m currently a UX Designer student  
 - 📷 @MariaFaustt on Instagram   
       
