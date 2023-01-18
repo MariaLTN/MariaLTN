@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maria Luíza Teixeira
 - 👀 I’m interested in UX/UI Design         
 - 🌱 I’m currently a UX Designer student  
-- 📷 @MariaFaustt on Instagram
+- 📷 @MariaFaustt on Instagram  
   
 
 <!---    
